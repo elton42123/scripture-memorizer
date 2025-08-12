@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\bin\Debug\net9.0\scripture-memorizer.exe
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\bin\Debug\net9.0\scripture-memorizer.deps.json
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\bin\Debug\net9.0\scripture-memorizer.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\bin\Debug\net9.0\scripture-memorizer.dll
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\bin\Debug\net9.0\scripture-memorizer.pdb
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.dll
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\refint\scripture-memorizer.dll
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.pdb
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\scripture-memorizer.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week3\scripture-memorizer\obj\Debug\net9.0\ref\scripture-memorizer.dll
